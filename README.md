@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on Invoice App as it is my Internship project
 - 🌱 I’m currently learning Python advance as well as trying to develop some more advanced projects using Python
 - 📫 How to reach me: sidraahmed300@gmail.com
-- ⚡ Fun fact: I love dancing💃
+- ⚡ Fun fact: I love Travelling✈️
